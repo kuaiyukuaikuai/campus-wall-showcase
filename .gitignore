@@ -1,0 +1,16 @@
+# 依赖与构建产物
+node_modules/
+dist/
+
+# 本地环境变量与密钥，不提交
+.env
+.env.*
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
